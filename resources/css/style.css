@@ -1,0 +1,113 @@
+/* .dark{
+    background-color: black;
+    color: white;
+}
+
+.blueTheme{
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+
+} */
+
+
+/* desafio 4
+
+ body{
+   font-family: Arial;
+            text-align: center;
+            background-color: #fce4ec;
+        }
+
+        input {
+            padding: 10px;
+            margin: 5px;
+        }
+
+        button {
+            padding: 10px;
+            background-color: pink;
+            border: none;
+            cursor: pointer;
+} */
+
+/* desafio 6 */
+/* button {
+    background-color: rgb(0, 207, 235);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(173, 232, 250);
+}
+
+body {
+    background-color: #afd9ff;
+    font-family: Arial;
+    text-align: center;
+} */
+
+/* desafio 7 */
+
+ /* body {
+            background-color: rgb(249, 250, 187);
+            text-align: center;
+            font-family: Arial;
+        }
+
+        input {
+            padding: 8px;
+            margin: 5px;
+        }
+
+        button {
+            background-color: rgb(248, 198, 229);
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        } */
+
+
+    /* desafio 8 */
+      /* body {
+            background-color: #d2b0ff;
+            text-align: center;
+            font-family: Arial;
+        }
+
+        input {
+            padding: 8px;
+        }
+
+        button {
+            background-color: rgb(127, 67, 196);
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        } */
+
+        /* desafio 9 */
+
+         body {
+            background-color: #fce4ec;
+            text-align: center;
+            font-family: Arial;
+        }
+
+        button {
+            background-color: hotpink;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: deeppink;
+        }
